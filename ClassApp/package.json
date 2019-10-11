@@ -1,0 +1,19 @@
+{
+  "name": "classapp",
+  "version": "1.0.0",
+  "description": "Challenge for Class App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enricorobazza/classAppChallenge.git"
+  },
+  "author": "Enrico Robazza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enricorobazza/classAppChallenge/issues"
+  },
+  "homepage": "https://github.com/enricorobazza/classAppChallenge#readme"
+}
